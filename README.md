@@ -25,7 +25,7 @@ I'm a passionate **Telematics and Systems Engineering student** with a strong in
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas3004tian&theme=dark" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebas3004tian&show_icons=true&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebas3004tian&show_icons=true&layout=compact&theme=chartreuse-dark&langs_count=10" alt="Top Languages" />
 </div>
 
 ### 🌎 Connect with Me
