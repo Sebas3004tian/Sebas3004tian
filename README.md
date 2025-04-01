@@ -6,7 +6,7 @@ I'm a passionate **Telematics and Systems Engineering student** at ICESI Univers
 ---
 
 ### Technologies & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,terraform,vagrant,ansible,azure,aws,gcp,docker,kubernetes,jenkins,githubactions,spring,gradle,maven,python,java,kotlin,typescript,javascript,react,next,nest,nodejs,scala,django,flask,html,css,tailwind,postgres,mysql,sqlite,firebase,mongo&theme=dark" alt="Tech Stack"/> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,terraform,ansible,azure,figma,aws,gcp,docker,kubernetes,jenkins,githubactions,spring,gradle,maven,python,java,kotlin,typescript,javascript,react,next,nest,nodejs,scala,django,flask,html,css,tailwind,postgres,mysql,sqlite,firebase,mongo,vagrant&theme=dark" alt="Tech Stack"/> </div>
 
 ---
 
