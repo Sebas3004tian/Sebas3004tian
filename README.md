@@ -23,7 +23,7 @@ I'm a passionate **Telematics and Systems Engineering student** at ICESI Univers
 
 ### Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/sebastian-lopez-022732254/" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastianlopezz//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
