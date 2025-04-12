@@ -17,6 +17,10 @@ I'm a passionate **Telematics and Systems Engineering student** at ICESI Univers
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas3004tian&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas3004tian&layout=compact&theme=radical&hide_border=true&langs_count=100" alt="Top Languages"/>
+  ## 🌐 All Used Languages
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas3004tian&layout=compact&theme=radical&hide_border=true&langs_count=100" alt="Top Languages"/>
+  
 </div>
 
 ---
